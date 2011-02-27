@@ -4,7 +4,6 @@
 	global $secret;
 	if(team_isloggedin()) {
 ?>
-
 <html>
 	<head>
 	  	<link rel="stylesheet" href="css/slide.css" type="text/css" />
