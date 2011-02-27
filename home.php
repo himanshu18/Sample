@@ -249,3 +249,4 @@
 		header("Location: login_int.php?errorcode=1");
 	}
 ?>
+<? echo 'g'; ?>
